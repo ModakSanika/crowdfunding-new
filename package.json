@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@trufflesuite/uws-js-unofficial": "^20.30.0-unofficial.0",
+    "ethers": "^5.8.0"
+  },
+  "devDependencies": {
+    "@truffle/contract": "^4.6.31",
+    "@truffle/hdwallet-provider": "^2.1.15"
+  }
+}
